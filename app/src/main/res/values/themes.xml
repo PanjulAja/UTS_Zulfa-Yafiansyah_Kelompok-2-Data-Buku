@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.UTS_DataBuku" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_003</item>
+        <item name="colorPrimaryVariant">@color/primary_dark_003</item>
+        <item name="colorSecondary">@color/accent_003</item>
+        <item name="android:statusBarColor">@color/primary_dark_003</item>
+    </style>
+</resources>

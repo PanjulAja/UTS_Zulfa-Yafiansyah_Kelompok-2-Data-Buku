@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Data Buku - UTS 102042330003</string>
+    <string name="title_login_003">Login User</string>
+    <string name="title_register_003">Registrasi Akun Baru</string>
+    <string name="title_dashboard_003">Dashboard Buku Saya</string>
+    <string name="title_add_book_003">Tambah Buku Baru</string>
+    <string name="title_edit_book_003">Edit Data Buku</string>
+    <string name="hint_username_003">Username</string>
+    <string name="hint_password_003">Password (Min. 6 Karakter)</string>
+    <string name="hint_judul_003">Judul Buku</string>
+    <string name="hint_pengarang_003">Nama Pengarang</string>
+    <string name="hint_tahun_003">Tahun Terbit (Contoh: 2024)</string>
+    <string name="hint_harga_003">Harga Buku (Rp)</string>
+    <string name="hint_search_003">Cari pengarang atau tahun terbit...</string>
+    <string name="btn_login_003">Login</string>
+    <string name="btn_register_003">Daftar Akun</string>
+    <string name="btn_goto_register_003">Belum punya akun? Daftar di sini</string>
+    <string name="btn_goto_login_003">Sudah punya akun? Login di sini</string>
+    <string name="btn_save_003">Simpan Data</string>
+    <string name="btn_update_003">Update Data</string>
+    <string name="btn_logout_003">Logout</string>
+    <string name="btn_add_003">Tambah Buku</string>
+    <string name="label_welcome_003">Selamat datang,</string>
+    <string name="label_total_harga_003">Total Harga Koleksi: Rp %s</string>
+    <string name="empty_book_list_003">Belum ada buku terdaftar. Silakan tambah buku baru.</string>
+    <string name="confirm_delete_title_003">Konfirmasi Hapus</string>
+    <string name="confirm_delete_msg_003">Apakah Anda yakin ingin menghapus buku ini?</string>
+</resources>
